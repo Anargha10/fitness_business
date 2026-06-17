@@ -136,7 +136,7 @@ export default function Navbar() {
             ))}
 
             <a
-              href="https://wa.me/919007816552"
+               href="https://wa.me/919007816552?text=Hi%20Anargha,%20I%20found%20your%20website%20and%20I'm%20interested%20in%20your%20Bodyweight%20Athlete%20Coaching.%0A%0ACurrent%20Fitness%20Level:%0AGoals:%0AAge:%0AEquipment%20Available: "
               target="_blank"
               rel="noreferrer"
               className="mobile-cta"
